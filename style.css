@@ -2,6 +2,7 @@ body {
   margin: 0;
   height: 100vh;
   padding: 1vh;
+  font-size: 3vmin;
   box-sizing: border-box;
   background: #d3ff00 center fixed no-repeat;
   color: #258200;
@@ -67,6 +68,7 @@ body {
 
 .message {
   font-family: 'courier new';
+  font-size: 140%;
   box-sizing: border-box;
   white-space: pre;
   text-shadow: 1px 1px 0 rgba(255,255,255,0.4);
@@ -104,7 +106,7 @@ textarea {
 input {
   width: 80vmin;
   margin: 0 auto;
-  font-size: 120%;
+  font-size: 110%;
   padding: 2vmin;
   background: rgba(73, 151, 61, 0.7);
   border-radius: 10px;
